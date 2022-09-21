@@ -49,11 +49,11 @@ global.welcom_msg = "true" // Welcome / Goodbye   [true/false]
 
 global.owner = ['+22571615640']
 global.ownertag = '+22571615640' //your tag number
-global.botname = 'WINTER╺ 𝘿𝙍𝘼𝙂𝙊𝙉 - 𝘉𝘖𝘛' //ur bot name
-global.packname = "WINTER Sticker" // sticker packname
-global.author = "WINTER╺ 𝘿𝙍𝘼𝙂𝙊𝙉" // sticker author
+global.botname = 'LISA╺ 𝘿𝙍𝘼𝙂𝙊𝙉 - 𝘉𝘖𝘛' //ur bot name
+global.packname = "LISA Sticker" // sticker packname
+global.author = "𝘿𝙍𝘼𝙂𝙊𝙉" // sticker author
 global.dragonemoji = '🐉' // Menu emoji
-global.footer = '[ ◉ Winter-ᴅʀᴀɢᴏɴ-ᴍᴅ ]' //
+global.footer = '[ ◉ LISA-ᴅʀᴀɢᴏɴ-ᴍᴅ ]' //
 
 //database
 global.premium = ['+22571615640'] //ur premium numbers
